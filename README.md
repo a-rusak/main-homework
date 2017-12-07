@@ -6,3 +6,4 @@
 
 
 [I часть задач](https://github.com/dex157/main-homework/tree/I-part)
+[II часть задач](https://github.com/dex157/main-homework/tree/II-part)

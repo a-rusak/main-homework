@@ -9,3 +9,6 @@
 
 
 [II часть задач](https://github.com/dex157/main-homework/tree/II-part)
+
+
+[III часть задач](https://github.com/dex157/main-homework/tree/III-part)
